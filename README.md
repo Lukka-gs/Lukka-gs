@@ -107,9 +107,12 @@
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
-<p align="center">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukka-gs&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
-  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=Lukka-gs&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  <img width="33%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lukka-gs&theme=react-dark&bg_color=20232a&hide_border=true" />
-</p>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=Lukka-gs&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img width="36%" src="https://streak-stats.demolab.com/?user=Lukka-gs&theme=react&border=61dafb&hide_border=true" />
+  <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukka-gs&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
+</div>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lukka-gs&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
