@@ -45,7 +45,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSharp-Dark.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=csharp" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" height="40" />
@@ -79,7 +79,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" height="40" />
   <img src="https://skillicons.dev/icons?i=github" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/IntelliJIDEA-Dark.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=intellij" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyCharm-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Eclipse-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" height="40" />
@@ -94,7 +94,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Blender-Dark.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/KaliLinux-Dark.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=kalilinux" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ubuntu-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" height="40" />
@@ -108,12 +108,8 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lukka-gs&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Lukka-gs&theme=react&border=61dafb&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukka-gs&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lukka-gs&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukka-gs&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=Lukka-gs&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img width="33%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lukka-gs&theme=react-dark&bg_color=20232a&hide_border=true" />
 </p>
 
