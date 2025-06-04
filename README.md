@@ -52,7 +52,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" height="40" />
@@ -77,15 +77,15 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitHub-Dark.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/IntelliJIDEA-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyCharm-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Eclipse-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/WordPress-Dark.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NPM-Dark.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=npm" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RabbitMQ-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prisma.svg" height="40" />
 </p>
@@ -98,7 +98,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ubuntu-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" height="40" />
 </p>
@@ -110,9 +110,6 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lukka-gs&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=Lukka-gs&theme=react&border=61dafb&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukka-gs&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
 </p>
 
@@ -120,21 +117,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lukka-gs&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<hr>
-
-<h2 align="center">👨‍💻 Projetos em Destaque 👨‍💻</h2>
-
-<p align="center">
-  <a href="https://github.com/Lukka-gs/Nostalgia-Documentary" title="Nostalgia Documentary">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Lukka-gs&repo=Nostalgia-Documentary&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/Lukka-gs/Calendario-Dinamico-WordPress" title="Calendário Dinâmico WordPress">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Lukka-gs&repo=Calendario-Dinamico-WordPress&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</p>
-
----
-
-<h4 align="center">
-  <a href="https://github.com/Lukka-gs?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
