@@ -109,14 +109,21 @@
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
-<div style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lukka-gs&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" style="max-width: 400px;" />
-  <div style="display: flex; flex-direction: column; gap: 20px;">
-    <img src="https://streak-stats.demolab.com/?user=lukka-gs&theme=github-dark&hide_border=true" style="max-width: 400px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukka-gs&layout=compact&theme=github_dark&hide_border=true" style="max-width: 400px;" />
-  </div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=lukka-gs&theme=github_dark&hide_border=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="500px"/>
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=lukka-gs&theme=github-dark-blue&hide_border=true" width="450px"/>
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukka-gs&layout=compact&theme=github_dark&hide_border=true" width="300px"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=lukka-gs&theme=react-dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-</div>
-<p align="center" style="margin-top: 20px;">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=lukka-gs&theme=github-compact&hide_border=true" />
-</p>
