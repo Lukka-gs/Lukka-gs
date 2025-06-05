@@ -79,7 +79,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" height="40" />
   <img src="https://skillicons.dev/icons?i=github" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" height="40" />
-  <img src="https://skillicons.dev/icons?i=intellij" height="40" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyCharm-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Eclipse-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" height="40" />
@@ -94,7 +94,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Blender-Dark.svg" height="40" />
-  <img src="https://skillicons.dev/icons?i=kalilinux" height="40" />
+  <img src="https://skillicons.dev/icons?i=kali" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ubuntu-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" height="40" />
