@@ -48,6 +48,8 @@
   <img src="https://skillicons.dev/icons?i=cs" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" height="40" />
+</p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" height="40" />
