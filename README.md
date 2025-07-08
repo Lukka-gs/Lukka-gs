@@ -2,23 +2,22 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+eu+sou+Lukka+👋;Backend+Developer+em+progresso+🚀;Apaixonado+por+Clean+Code+e+Arquitetura!;Seja+Bem-vindo!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=400&size=50&duration=3000&pause=1000&color=2f81f7&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Lukka!;Fullstack+Developer">
   </a>
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/luccagoncalvessoares/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
-  <code><a href="mailto:luccags.soares@gmail.com" title="Email"><img width="22" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"> Email</a></code>
+  <code><a href="https://www.linkedin.com/in/lukkags/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
+  <code><a href="mailto:contato@luccasoares.com" title="Email"><img width="22" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"> Email</a></code>
+  <code><a href="https://wa.me/5521971233773" title="WhatsApp"><img width="22" src="https://cdn-icons-png.flaticon.com/512/733/733585.png"> WhatsApp</a></code>
 </h5>
 
 <p align="center">
-  Olá, me chamo **Lukka Gonçalves Soares**, sou estudante de ADS no Senac RJ e apaixonado por desenvolvimento backend!  
+  Olá! Sou <strong>Lucca Gonçalves Soares</strong>, estudante de Análise e Desenvolvimento de Sistemas no Senac RJ.  
   <br>
-  💻 Atualmente focado em Spring Boot, Microsserviços e RabbitMQ.  
+  Atuo como <strong>Fullstack Developer</strong>, com experiências em suporte técnico e manutenções de sistemas.  
   <br>
-  🚀 Estudando Arquitetura de Software, Clean Code e Docker.  
-  <br>
-  🎮 Nos tempos livres, gamer e curioso por tecnologia.  
+  Tenho interesse em backend, frontend, arquitetura de software, microsserviços, cloud e muito mais.
 </p>
 
 <hr>
