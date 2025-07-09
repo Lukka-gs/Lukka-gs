@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=400&size=50&duration=3000&pause=1000&color=2f81f7&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Lukka!;Fullstack+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=400&size=50&duration=3000&pause=1000&color=2f81f7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lukka!;Fullstack+Developer">
   </a>
 </h1>
 
@@ -13,16 +13,16 @@
 </h5>
 
 <p align="center">
-  Olá! Sou <strong>Lucca Gonçalves Soares</strong>, estudante de Análise e Desenvolvimento de Sistemas no Senac RJ.  
+  Hi! I'm <strong>Lucca Gonçalves Soares</strong>, a Systems Analysis and Development student at Senac RJ.  
   <br>
-  Atuo como <strong>Fullstack Developer</strong>, com experiências em suporte técnico e manutenções de sistemas.  
+  I work as a <strong>Fullstack Developer</strong>, with experience in technical support and systems maintenance.  
   <br>
-  Tenho interesse em backend, frontend, arquitetura de software, microsserviços, cloud e muito mais.
+  I'm interested in backend, frontend, software architecture, microservices, cloud, and much more.
 </p>
 
 <hr>
 
-## 🎧 Ouvindo Agora
+## 🎧 Listening Now
 
 <p align="center"> 
   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31sdzv7ztv756fixmzexemxja73q&redirect=true">
@@ -126,3 +126,4 @@
   </tr>
 </table>
 
+<hr>
