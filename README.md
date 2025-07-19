@@ -13,11 +13,11 @@
 </h5>
 
 <p align="center">
-  Hi! I'm <strong>Lucca Gonçalves Soares</strong>, a Systems Analysis and Development student at Senac RJ.  
+  Hello, I'm <strong>Lucca Gonçalves Soares</strong>, a graduate in Systems Analysis and Development.  
   <br>
-  I work as a <strong>Fullstack Developer</strong>, with experience in technical support and systems maintenance.  
+  I work as a <strong>Software Developer</strong>, with experience in system development, process automation, and technical support.  
   <br>
-  I'm interested in backend, frontend, software architecture, microservices, cloud, and much more.
+  I’m interested in software architecture, backend, frontend, cloud computing, and continuous improvement of digital solutions.
 </p>
 
 <hr>
