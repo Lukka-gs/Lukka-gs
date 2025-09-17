@@ -119,11 +119,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukka-gs&layout=compact&theme=github_dark&hide_border=true" width="300px"/>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=lukka-gs&theme=react-dark&hide_border=true" />
-    </td>
-  </tr>
 </table>
 
 <hr>
