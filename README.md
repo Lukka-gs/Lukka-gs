@@ -106,17 +106,6 @@
 
 <hr>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=lukka-gs&theme=github_dark&hide_border=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="500px"/>
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=lukka-gs&theme=github-dark-blue&hide_border=true" width="450px"/>
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukka-gs&layout=compact&theme=github_dark&hide_border=true" width="300px"/>
     </td>
   </tr>
 </table>
